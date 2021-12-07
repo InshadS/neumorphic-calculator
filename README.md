@@ -1,1 +1,1 @@
-### [live site](https://inshad-neumorphic-calculator.netlify.app/)
+### [Demo site](https://inshad-neumorphic-calculator.netlify.app/)
